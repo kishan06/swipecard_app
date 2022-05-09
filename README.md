@@ -1,16 +1,10 @@
-# swipecard_app
+# Swipe card App
 
-A new Flutter project.
+This app demonstrates swipe cards for incoming data from Random user's API.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Some Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+**Home Screen**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![homescreen](https://user-images.githubusercontent.com/47714049/167349634-186b2d9d-6eca-47de-b255-43c16043938b.gif)
